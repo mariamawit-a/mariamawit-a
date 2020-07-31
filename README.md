@@ -1,6 +1,6 @@
 ### Welcome to My Github 👋
 
-<img src="/design.png?raw=true" width="100%"/>
+<img src="/design.png?raw=true"/>
 
 - 🏫 I go to UCI 
 - 🇪🇹 I am from Ethiopia
