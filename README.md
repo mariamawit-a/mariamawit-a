@@ -4,7 +4,7 @@
 
 - 🏫 I go to UCI 
 - 🇪🇹 I am from Ethiopia
-- 🔭 I’m currently working on a chat app
+- 🔭 I’m currently working on a trivia website
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on fun projects
 - 📫 How to reach me: kaluasnake@gmail.com
