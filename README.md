@@ -4,8 +4,8 @@
 
 - 🏫 I go to UCI 
 - 🇪🇹 I am from Ethiopia
-- 🔭 I’m currently working on an Yelp clone IOS app
-- 🌱 I’m currently learning Swift 
+- 🔭 I’m currently working on a Minesweeper AI
+- 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on fun projects
 - 📫 How to reach me: kaluasnake@gmail.com
 - 👻 If I was a meme
